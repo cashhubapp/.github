@@ -1,5 +1,5 @@
 # CashHub POS
-CashHub POS is a Saudi point-of-sale system for restaurants, cafés and retail. It sells offline and signs the e-invoice with a QR code on the device itself, built to ZATCA Phase 2 requirements. Kitchen display, inventory and stocktake, suppliers, reports, permissions, Arabic and English. Pricing: SAR 0.05 per invoice, capped at SAR 149 per branch per month, no contract, 30-day free trial.
+CashHub POS is a Saudi point-of-sale system for restaurants, cafés and retail. The invoice is signed with its QR on the device itself, it sells offline, and it is built to ZATCA Phase 2 requirements. Kitchen display, inventory and stocktake, suppliers, reports, permissions, Arabic and English. SAR 0.05 per invoice, capped at SAR 149 per branch per month, no contract, 30-day free trial.
 ## Get CashHub POS
 - [Website](https://cashhubapp.com)
 - [Google Play](https://play.google.com/store/apps/details?id=com.cashhubapp.pos)
@@ -16,3 +16,4 @@ CashHub POS is a Saudi point-of-sale system for restaurants, cafés and retail. 
 - Legal entity: Rkeb Office Commercial
 - Commercial registration: 7039412338
 - VAT number: 300089699700003
+
